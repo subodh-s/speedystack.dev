@@ -171,6 +171,16 @@ body {
   margin-bottom: 0.2rem;
   color: #183153;
 }
+.tool-name a {
+  color: #2563eb;
+  text-decoration: underline;
+  font-weight: 700;
+  transition: color 0.2s;
+}
+.tool-name a:hover {
+  color: #1746a2;
+  text-decoration: underline;
+}
 .tool-desc {
   font-size: 1rem;
   color: #4b5563;
